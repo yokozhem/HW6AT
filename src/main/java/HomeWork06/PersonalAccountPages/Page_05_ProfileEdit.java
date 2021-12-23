@@ -2,9 +2,11 @@ package HomeWork06.PersonalAccountPages;
 
 import HomeWork06.BaseClassForPages;
 import HomeWork06.PageElements.SidebarMenu;
+import io.qameta.allure.Step;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.FindBy;
+
 
 
 public class Page_05_ProfileEdit extends BaseClassForPages {
@@ -18,11 +20,11 @@ public class Page_05_ProfileEdit extends BaseClassForPages {
 
     // Поле "Компания"
     @FindBy(name = "Company")
-    public WebElement fieldCompany;
+    private WebElement fieldCompany;
 
     // Поле "Должность"
     @FindBy(name = "Position")
-    public WebElement fieldPosition;
+    private WebElement fieldPosition;
 
     // Конструктор класса
     public Page_05_ProfileEdit(ChromeDriver webDriver) {
@@ -31,6 +33,7 @@ public class Page_05_ProfileEdit extends BaseClassForPages {
     }
 
     // Метод заполнения поля "Компания"
+    @Step("Заполняем поле \"Компания\"")
     public Page_05_ProfileEdit fillCompany(String companyName) {
         fieldCompany.clear();
         fieldCompany.sendKeys(companyName);
@@ -39,6 +42,7 @@ public class Page_05_ProfileEdit extends BaseClassForPages {
     }
 
     // Метод заполнения поля "Должность"
+    @Step("Заполняем поле \"Должность\"")
     public Page_05_ProfileEdit fillPosition(String positionName) {
         fieldPosition.clear();
         fieldPosition.sendKeys(positionName);

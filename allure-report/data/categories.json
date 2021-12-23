@@ -1,0 +1,89 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Выход из ЛК невозможен ==> Unexpected exception thrown: java.lang.NoClassDefFoundError: Could not initialize class org.openqa.selenium.WebDriverException",
+      "children" : [ {
+        "name" : "01 Проверка пунктов меню в ЛК",
+        "uid" : "78a38ffff2d84e2",
+        "parentUid" : "65fad1a55a315f0310ac9b2d5517ef7e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1640152545165,
+          "stop" : 1640152552702,
+          "duration" : 7537
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "65fad1a55a315f0310ac9b2d5517ef7e"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Could not initialize class org.openqa.selenium.remote.UnreachableBrowserException",
+      "children" : [ {
+        "name" : "03 Проверка редактирования поля \"Компания\" в ЛК",
+        "uid" : "3510d17d7d48fc9d",
+        "parentUid" : "2fdc964fe2a4452b05a96a5287908b44",
+        "status" : "broken",
+        "time" : {
+          "start" : 1640152552721,
+          "stop" : 1640152560865,
+          "duration" : 8144
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "04 Проверка редактирования поля \"Должность\" в ЛК",
+        "uid" : "8f6b170c9bba9ca3",
+        "parentUid" : "2fdc964fe2a4452b05a96a5287908b44",
+        "status" : "broken",
+        "time" : {
+          "start" : 1640152560899,
+          "stop" : 1640152569719,
+          "duration" : 8820
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "02 Проверка перехода по страницам меню",
+        "uid" : "dda9b8a2e84a705b",
+        "parentUid" : "2fdc964fe2a4452b05a96a5287908b44",
+        "status" : "broken",
+        "time" : {
+          "start" : 1640152569733,
+          "stop" : 1640152585575,
+          "duration" : 15842
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2fdc964fe2a4452b05a96a5287908b44"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

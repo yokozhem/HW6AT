@@ -9,6 +9,7 @@ import org.openqa.selenium.support.FindBy;
 import java.util.List;
 
 
+
 public class SidebarMenu extends BaseClassForPages {
 
     // Конструктор класса

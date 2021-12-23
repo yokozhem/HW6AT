@@ -1,0 +1,64 @@
+{
+  "uid" : "83f9117a0a58abb2",
+  "name" : "01 Проверка доступности главной страницы",
+  "fullName" : "TestHomeWork06.KommersantRuObjectTest.homePageLoaded",
+  "historyId" : "913bd60911707f76379df5c475f44c68",
+  "time" : {
+    "start" : 1640152527701,
+    "stop" : 1640152534136,
+    "duration" : 6435
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:TestHomeWork06.KommersantRuObjectTest]/[method:homePageLoaded()]"
+  }, {
+    "name" : "host",
+    "value" : "Lenas-MBP"
+  }, {
+    "name" : "thread",
+    "value" : "10773@Lenas-MBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "TestHomeWork06.KommersantRuObjectTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TestHomeWork06.KommersantRuObjectTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "homePageLoaded"
+  }, {
+    "name" : "suite",
+    "value" : "TestHomeWork06.KommersantRuObjectTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "83f9117a0a58abb2.json",
+  "parameterValues" : [ ]
+}
