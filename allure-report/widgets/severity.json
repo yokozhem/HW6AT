@@ -1,0 +1,71 @@
+[ {
+  "uid" : "8f6b170c9bba9ca3",
+  "name" : "04 Проверка редактирования поля \"Должность\" в ЛК",
+  "time" : {
+    "start" : 1640152560899,
+    "stop" : 1640152569719,
+    "duration" : 8820
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4828de8eb88a7e5",
+  "name" : "03 Негативная проверка авторизации на сайте (пустые поля)",
+  "time" : {
+    "start" : 1640152534311,
+    "stop" : 1640152538428,
+    "duration" : 4117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0a71591be27640f",
+  "name" : "02 Позитивная проверка авторизации на сайте",
+  "time" : {
+    "start" : 1640152538458,
+    "stop" : 1640152545138,
+    "duration" : 6680
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dda9b8a2e84a705b",
+  "name" : "02 Проверка перехода по страницам меню",
+  "time" : {
+    "start" : 1640152569733,
+    "stop" : 1640152585575,
+    "duration" : 15842
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3510d17d7d48fc9d",
+  "name" : "03 Проверка редактирования поля \"Компания\" в ЛК",
+  "time" : {
+    "start" : 1640152552721,
+    "stop" : 1640152560865,
+    "duration" : 8144
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "78a38ffff2d84e2",
+  "name" : "01 Проверка пунктов меню в ЛК",
+  "time" : {
+    "start" : 1640152545165,
+    "stop" : 1640152552702,
+    "duration" : 7537
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "83f9117a0a58abb2",
+  "name" : "01 Проверка доступности главной страницы",
+  "time" : {
+    "start" : 1640152527701,
+    "stop" : 1640152534136,
+    "duration" : 6435
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

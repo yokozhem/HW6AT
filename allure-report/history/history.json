@@ -1,0 +1,139 @@
+{
+  "14a8e03c0c081b3b459f9040b6736517" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a0a71591be27640f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640152538458,
+        "stop" : 1640152545138,
+        "duration" : 6680
+      }
+    } ]
+  },
+  "9055b2e51cad2cc5c897d94279047109" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78a38ffff2d84e2",
+      "status" : "failed",
+      "statusDetails" : "Выход из ЛК невозможен ==> Unexpected exception thrown: java.lang.NoClassDefFoundError: Could not initialize class org.openqa.selenium.WebDriverException",
+      "time" : {
+        "start" : 1640152545165,
+        "stop" : 1640152552702,
+        "duration" : 7537
+      }
+    } ]
+  },
+  "2d7688713f50ef743d0f94e7a53a123a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4828de8eb88a7e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640152534311,
+        "stop" : 1640152538428,
+        "duration" : 4117
+      }
+    } ]
+  },
+  "151022ddc7a463766ee4933da8ee9dcf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3510d17d7d48fc9d",
+      "status" : "broken",
+      "statusDetails" : "Could not initialize class org.openqa.selenium.remote.UnreachableBrowserException",
+      "time" : {
+        "start" : 1640152552721,
+        "stop" : 1640152560865,
+        "duration" : 8144
+      }
+    } ]
+  },
+  "913bd60911707f76379df5c475f44c68" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83f9117a0a58abb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640152527701,
+        "stop" : 1640152534136,
+        "duration" : 6435
+      }
+    } ]
+  },
+  "26a6dcf40532d2e34bc50dd6525bf87e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dda9b8a2e84a705b",
+      "status" : "broken",
+      "statusDetails" : "Could not initialize class org.openqa.selenium.remote.UnreachableBrowserException",
+      "time" : {
+        "start" : 1640152569733,
+        "stop" : 1640152585575,
+        "duration" : 15842
+      }
+    } ]
+  },
+  "27ef99ef5dbfa1212cc2e18518b4965e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f6b170c9bba9ca3",
+      "status" : "broken",
+      "statusDetails" : "Could not initialize class org.openqa.selenium.remote.UnreachableBrowserException",
+      "time" : {
+        "start" : 1640152560899,
+        "stop" : 1640152569719,
+        "duration" : 8820
+      }
+    } ]
+  }
+}

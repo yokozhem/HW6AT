@@ -1,0 +1,64 @@
+{
+  "uid" : "4828de8eb88a7e5",
+  "name" : "03 Негативная проверка авторизации на сайте (пустые поля)",
+  "fullName" : "TestHomeWork06.KommersantRuObjectTest.NegativeAuthorizationCheck",
+  "historyId" : "2d7688713f50ef743d0f94e7a53a123a",
+  "time" : {
+    "start" : 1640152534311,
+    "stop" : 1640152538428,
+    "duration" : 4117
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:TestHomeWork06.KommersantRuObjectTest]/[method:NegativeAuthorizationCheck()]"
+  }, {
+    "name" : "host",
+    "value" : "Lenas-MBP"
+  }, {
+    "name" : "thread",
+    "value" : "10773@Lenas-MBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "TestHomeWork06.KommersantRuObjectTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TestHomeWork06.KommersantRuObjectTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "NegativeAuthorizationCheck"
+  }, {
+    "name" : "suite",
+    "value" : "TestHomeWork06.KommersantRuObjectTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4828de8eb88a7e5.json",
+  "parameterValues" : [ ]
+}

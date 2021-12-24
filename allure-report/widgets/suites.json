@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "ad159745606a5a9b04c2c8de4b60bc7f",
+    "name" : "TestHomeWork06.KommersantRuObjectTest.PersonalAccountEditingTest",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "a872966f190b67012d703f0ac63a2b59",
+    "name" : "TestHomeWork06.KommersantRuObjectTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  } ]
+}
